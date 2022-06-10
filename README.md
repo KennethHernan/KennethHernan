@@ -34,7 +34,7 @@ print(greeting)
 
 <p>
   <h4 align="right">Profile Stats</h4>
-  <img with="25%" align="right" src="https://github-readme-stats.vercel.app/api?username=KennethHernan&show_icons=true&theme=synthwave" alt="KennethHernan :: Profile Stats" />
+  <img with="10%" align="right" src="https://github-readme-stats.vercel.app/api?username=KennethHernan&show_icons=true&theme=synthwave" alt="KennethHernan :: Profile Stats" />
   <h4 align="left">Top Langs</h4>
   <img with="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethHernan&langs_count=10&theme=synthwave&layout=compact" alt="KennethHernan :: Top Langs" />
   
