@@ -10,8 +10,6 @@ print(hi)
 <p align="center"><img src="https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Synthwave" height="auto" width="100%"></p>
 
 ---
-<h4 align="center">Visitor's</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{KennethHernan}/count.svg" alt="KennethHernan :: Visitor's Count" /></p>
 
 <h4 align="center">Top Langs</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethHernan&langs_count=10&theme=synthwave&layout=compact" alt="KennethHernan :: Top Langs" /></p>
