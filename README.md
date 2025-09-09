@@ -1,22 +1,40 @@
-<h1> Welcome to my Profile  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30"></h1>
+# 👋 ¡Hola! Soy Kenneth De La Cruz
 
-Hi, I'm [Kenneth](https//github.com/KennethHernan) from Punta Hermosa, Lima, Perú. I like to work as a team because I believe that our skills complement each other, so that we can learn from each other. 🙌
+Soy desarrollador web con enfoque full stack, especializado en la creación de aplicaciones modernas y escalables utilizando **React** en el frontend y **Node.js** en el backend.
 
-```golang
-hi = "Hi, I'm Kenneth"
-print(hi)
-```
+Con un enfoque en **código limpio, rendimiento y buenas prácticas**, me gusta construir soluciones que aporten valor real y sean fáciles de mantener.
 
-<p align="center"><img src="https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Synthwave" height="auto" width="100%"></p>
+---
+## 💻 Sobre mí
+
+- 🎯 Desarrollador/a web enfocado/a en [Frontend / Backend / Fullstack].
+- 🛠️ Actualmente trabajando con: HTML, CSS, JavaScript, [React / Vue / Node.js / Python / etc.]
+- 🌱 Aprendiendo constantemente sobre nuevas herramientas, buenas prácticas y automatización con IA.
+- 🧠 Me interesa todo lo relacionado con [Interfaces limpias / Algoritmos / Diseño responsivo / UI/UX]
 
 ---
 
-<h4 align="center">Top Langs</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethHernan&langs_count=10&theme=synthwave&layout=compact" alt="KennethHernan :: Top Langs" /></p>
+## 🧩 Tecnologías principales
 
-<h4 align="center">Profile Stats</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KennethHernan&show_icons=true&theme=synthwave" alt="KennethHernan :: Profile Stats" /></p>
-<br>
+- **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS, TypeScript
+- **Backend**: Node.js, Express, REST APIs, MongoDB, PostgreSQL
+- **DevOps**: Docker, Git, GitHub Actions, Vercel, Railway
+- **Otros**: JWT, OAuth, WebSockets, Prisma, Redux, Zustand
 
 ---
-⭐ From [@Kenneth](https//github.com/KennethHernan)
+
+## 🚀 Objetivos
+
+- Compartir código limpio y comentado.
+- Aprender colaborando con la comunidad.
+- Contribuir a proyectos open source en el futuro.
+
+## 📫 ¿Cómo contactarme?
+
+- 🌐 Portafolio: [tuwebsite.com](https://tuwebsite.com)
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- ✉️ Email: kenetydelaceuz14@gmail.com
+
+---
+
+> “Construyendo soluciones con tecnología, una línea de código a la vez.”
