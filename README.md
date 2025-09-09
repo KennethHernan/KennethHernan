@@ -4,7 +4,10 @@ Soy desarrollador web con enfoque full stack, especializado en la creación de a
 
 Con un enfoque en **código limpio, rendimiento y buenas prácticas**, me gusta construir soluciones que aporten valor real y sean fáciles de mantener.
 
+
 ---
+
+
 ## 💻 Sobre mí
 
 - 🎯 Desarrollador/a web enfocado/a en [Frontend / Backend / Fullstack].
@@ -12,7 +15,9 @@ Con un enfoque en **código limpio, rendimiento y buenas prácticas**, me gusta 
 - 🌱 Aprendiendo constantemente sobre nuevas herramientas, buenas prácticas y automatización con IA.
 - 🧠 Me interesa todo lo relacionado con [Interfaces limpias / Algoritmos / Diseño responsivo / UI/UX]
 
+
 ---
+
 
 ## 🧩 Tecnologías principales
 
@@ -21,7 +26,9 @@ Con un enfoque en **código limpio, rendimiento y buenas prácticas**, me gusta 
 - **DevOps**: Docker, Git, GitHub Actions, Vercel, Railway
 - **Otros**: JWT, OAuth, WebSockets, Prisma, Redux, Zustand
 
+
 ---
+
 
 ## 🚀 Objetivos
 
@@ -29,12 +36,15 @@ Con un enfoque en **código limpio, rendimiento y buenas prácticas**, me gusta 
 - Aprender colaborando con la comunidad.
 - Contribuir a proyectos open source en el futuro.
 
+
 ## 📫 ¿Cómo contactarme?
 
-- 🌐 Portafolio: [portfolio-kh](https://portfolio-kh-five.vercel.app/)
+- 🌐 Portafolio: [Portafolio KH](https://kennethhernan.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/KennethHernan](https://linkedin.com/in/KennethHernan)
 - ✉️ Email: kenetydelaceuz14@gmail.com
 
 ---
+
+
 
 > “Construyendo soluciones con tecnología, una línea de código a la vez.”
