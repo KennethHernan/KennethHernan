@@ -31,8 +31,8 @@ Con un enfoque en **código limpio, rendimiento y buenas prácticas**, me gusta 
 
 ## 📫 ¿Cómo contactarme?
 
-- 🌐 Portafolio: [tuwebsite.com](https://tuwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🌐 Portafolio: [portfolio-kh](https://portfolio-kh-five.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/KennethHernan](https://linkedin.com/in/KennethHernan)
 - ✉️ Email: kenetydelaceuz14@gmail.com
 
 ---
